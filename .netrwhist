@@ -1,11 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/wu6u3/.mujoco'
-let g:netrw_dirhist_2='/home/wu6u3/Code/CTTimer_test'
-let g:netrw_dirhist_3='/home/wu6u3/.vim'
-let g:netrw_dirhist_4='/home/wu6u3/.vim/after'
-let g:netrw_dirhist_5='/home/wu6u3/.vim/after/syntax'
-let g:netrw_dirhist_6='/home/wu6u3/Code/libabs-2.0.0/src'
-let g:netrw_dirhist_7='/home/wu6u3/Code/CS419RayTracing/mp1'
-let g:netrw_dirhist_8='/home/wu6u3/Code/Const-Time-Meta-Programming/main'
-let g:netrw_dirhist_9='/home/wu6u3/.vim'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/wu6u3/Code/libabs-2.0.3/src'
+let g:netrw_dirhist_2='/home/wu6u3/Code/libabs/.git'
